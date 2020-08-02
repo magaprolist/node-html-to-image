@@ -1,7 +1,7 @@
 
 > A Node.js library that generates images from HTML
 
-### 🏠 [Homepage](https://github.com/frinyvonnick/node-html-to-image)
+### 🏠 [Homepage](https://github.com/cooperationpower821/node-html-to-image)
 
 
 ## Description
@@ -168,10 +168,6 @@ const images = await nodeHtmlToImage({
   content: [{ name: 'Pierre' }, { name: 'Paul' }, { name: 'Jacques' }]
 })
 ```
-
-## Related
-
-- [node-html-to-image-cli](https://github.com/frinyvonnick/node-html-to-image-cli) - CLI for this module
 
 ## Run tests
 
